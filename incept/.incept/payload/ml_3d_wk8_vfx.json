@@ -1,0 +1,264 @@
+{
+  "courses": [
+    {
+      "name": "Machine Learning in VFX",
+      "chapters": [
+        {
+          "id": null,
+          "icon": null,
+          "cover": null,
+          "name": "Week 8",
+          "tool": [
+            "166a1865-b187-8138-8316-dc8288897458",
+            "149a1865-b187-80f9-b21f-c9c96430bf62"
+          ],
+          "description": "Week 8 covers Intro to LLMs, Houdini AI bot assistant, fine-tuning a LLM for in-house documentation, Transformers in AI, AI assistants for the pipeline, LLM techniques",
+          "link": "https://rebelway.academy/lessons/week8-73/",
+          "instructor": [
+            "Felipe Pesantez"
+          ],
+          "institute": [
+            "Rebelway"
+          ],
+          "tags": [
+            "Houdini",
+            "Python"
+          ],
+          "template": "default",
+          "lessons": [
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Week 8 Introduction",
+              "description": "This lesson serves as the starting point for the eighth week of the course. It provides an overview or introduction to the topics and activities planned for the week.",
+              "link": "https://rebelway.academy/topic/01_intro-987/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Naive Bayes Multinomial",
+              "description": "This lesson covers the Multinomial Naive Bayes algorithm, which is typically used for text classification where features represent the frequency of words. It explains how the model makes predictions by using probabilities computed from the training data.",
+              "link": "https://rebelway.academy/topic/02_naivebayes_multinomial/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Bidirectional LSTM",
+              "description": "This lesson focuses on the Bidirectional Long Short-Term Memory (LSTM) networks, which are extensions of traditional LSTMs that can process data in both forward and backward directions. It covers the architecture and benefits of using bidirectional LSTMs for various sequence prediction tasks.",
+              "link": "https://rebelway.academy/topic/03_bidirectional_lstm/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Transformers",
+              "description": "The lesson covers the core principles and architecture of transformers in artificial intelligence. It explains how transformers improve the efficiency and performance of language models through mechanisms like self-attention.",
+              "link": "https://rebelway.academy/topic/04_transformers/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "LLMs Examples in Practice",
+              "description": "The lesson 'LLMs Examples in Practice' provides practical demonstrations of how large language models can be effectively used in various real-world applications. It explores specific use cases and scenarios where LLMs can enhance processes and outcomes.",
+              "link": "https://rebelway.academy/topic/05_llms_examples_in_practice/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Llama Chat",
+              "description": "This lesson covers the use and functionality of the Llama Chat application. It focuses on helping users understand how to navigate and operate the chat features within the app.",
+              "link": "https://rebelway.academy/topic/06_llama_chat/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "AI Assistant",
+              "description": "The lesson on 'AI Assistant' explores the role and functionality of AI-driven assistants in various applications. It covers their integration into workflows and potential benefits for handling tasks and improving efficiency.",
+              "link": "https://rebelway.academy/topic/07_ai_assistant/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "PEFT",
+              "description": "This lesson covers Parameter-Efficient Fine-Tuning (PEFT), a technique used in machine learning to adapt pre-trained models with minimal changes to their parameters. It focuses on the application and benefits of PEFT in optimizing model performance without requiring extensive retraining.",
+              "link": "https://rebelway.academy/topic/08_peft/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "LLMs and Data",
+              "description": "The lesson 'LLMs and Data' explores the relationship between large language models and the data they use for training and operation. It discusses how data quality and quantity impact the performance and accuracy of LLMs.",
+              "link": "https://rebelway.academy/topic/09_llms_and_data/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Week 8 Assignment",
+              "description": "The Week 8 Assignment involves a task or set of tasks assigned for the eighth week of the course. Students are expected to complete the assignment as part of their regular coursework requirements.",
+              "link": "https://rebelway.academy/topic/10_assignment-48/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

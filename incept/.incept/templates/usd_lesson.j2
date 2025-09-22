@@ -1,0 +1,23 @@
+{%- set child_folder_name  = "" -%}
+{%- set scenes = ["anim","layout","lighting"] if scenes is undefined else scenes -%}
+
+{
+  "folder": "{{ '%03d' % (numeric_prefix|int * 10) }}",
+  "subfolders": [
+    { "folder": "_publish" },
+    {%- for scn in scenes %}
+    {
+      "folder": "{{ scn }}",
+      "subfolders": [
+        { "folder": "_publish" },
+        {
+          "folder": "scene_files",
+          "files": [
+            { "file": "{{ lesson_name }}.md" }
+          ]
+        }
+      ]
+    }{{ "," if not loop.last }}{%- endfor %}
+  ],
+  "files": []
+}

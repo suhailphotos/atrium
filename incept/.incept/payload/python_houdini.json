@@ -1,0 +1,2120 @@
+{
+  "courses": [
+    {
+      "id": null,
+      "icon": null,
+      "cover": null,
+      "name": "Python for Houdini Artists",
+      "tool": [
+        "166a1865-b187-8138-8316-dc8288897458"
+      ],
+      "description": "Empower Houdini artists to code custom tools, automate workflows, and tackle production challenges-from Python fundamentals to advanced HDAs, MaterialX, and Solaris techniques-using practical examples for FX, asset creation, and pipeline development.",
+      "logo_public_id": "icon/rebelway_logo",
+      "fanart_public_id": "banner/fanart",
+      "poster_base_id": "poster/base_image",
+      "thumb_base_id": "thumb/base_image",
+      "link": "https://rebelway.academy/lessons/welcome-python-for-houdini-artists-new/",
+      "instructor": [
+        "Ciro Cardoso"
+      ],
+      "institute": [
+        "Rebelway"
+      ],
+      "tags": [
+        "Python",
+        "Houdini"
+      ],
+      "template": "default",
+      "chapters": [
+        {
+          "id": null,
+          "icon": null,
+          "cover": null,
+          "name": "Week 1",
+          "tool": [
+            "166a1865-b187-8138-8316-dc8288897458"
+          ],
+          "description": "Learn Python fundamentals in Houdini by creating practical tools-an asset batch importer and an attribute-based geometry splitter for efficient workflows.",
+          "link": "https://rebelway.academy/lessons/week1-61/",
+          "instructor": [
+            "Ciro Cardoso"
+          ],
+          "institute": [
+            "Rebelway"
+          ],
+          "tags": [
+            "Python",
+            "Houdini"
+          ],
+          "template": "default",
+          "lessons": [
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Intro",
+              "description": "Intro",
+              "link": "https://rebelway.academy/topic/01_intro-824/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Visual Studio Code",
+              "description": "Visual Studio Code",
+              "link": "https://rebelway.academy/topic/02_visualcode/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "HOM",
+              "description": "HOM",
+              "link": "https://rebelway.academy/topic/03_hom/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Variables",
+              "description": "Variables",
+              "link": "https://rebelway.academy/topic/04_variables/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Strings",
+              "description": "Strings",
+              "link": "https://rebelway.academy/topic/05_strings/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Numbers",
+              "description": "Numbers",
+              "link": "https://rebelway.academy/topic/06_numbers/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Conditional Logic",
+              "description": "Conditional Logic",
+              "link": "https://rebelway.academy/topic/07_conditional_logic/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "List Tuple Sets",
+              "description": "List Tuple Sets",
+              "link": "https://rebelway.academy/topic/08_list_tuple_sets/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Comments",
+              "description": "Comments",
+              "link": "https://rebelway.academy/topic/09_comments/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Batch Importer",
+              "description": "Batch Importer",
+              "link": "https://rebelway.academy/topic/10_batch_importer/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Split Geo",
+              "description": "Split Geo",
+              "link": "https://rebelway.academy/topic/11_splitgeo/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Homework",
+              "description": "Homework",
+              "link": "https://rebelway.academy/topic/12_homework/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            }
+          ]
+        },
+        {
+          "id": null,
+          "icon": null,
+          "cover": null,
+          "name": "Week 2",
+          "tool": [
+            "166a1865-b187-8138-8316-dc8288897458"
+          ],
+          "description": "Dive deeper into Python with OOP-classes, modules, and functions-while exploring Houdini Packages to build your own reusable toolset.",
+          "link": "https://rebelway.academy/lessons/week2-62/",
+          "instructor": [
+            "Ciro Cardoso"
+          ],
+          "institute": [
+            "Rebelway"
+          ],
+          "tags": [
+            "Python",
+            "Houdini"
+          ],
+          "template": "default",
+          "lessons": [
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Intro to Week 2",
+              "description": "Intro to Week 2",
+              "link": "https://rebelway.academy/topic/00_intro-60/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Packages Modules",
+              "description": "Packages Modules",
+              "link": "https://rebelway.academy/topic/01_packages_modules/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Dictionaries",
+              "description": "Dictionaries",
+              "link": "https://rebelway.academy/topic/02_dictionaries/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Classes And Object Oriented Programming",
+              "description": "Classes And Object Oriented Programming",
+              "link": "https://rebelway.academy/topic/03_classes_and_object_oriented_programming/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Functions",
+              "description": "Functions",
+              "link": "https://rebelway.academy/topic/04_functions-5/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "For and While Loops",
+              "description": "For and While Loops",
+              "link": "https://rebelway.academy/topic/05_forandwhile_loops/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Into to pip",
+              "description": "Into to pip",
+              "link": "https://rebelway.academy/topic/06_introtopip/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Qtdesigner",
+              "description": "Qtdesigner",
+              "link": "https://rebelway.academy/topic/07_qtdesigner/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Setting Workspace Packages",
+              "description": "Setting Workspace Packages",
+              "link": "https://rebelway.academy/topic/08_setting_workspace_packages/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Setting Workspace Modules",
+              "description": "Setting Workspace Modules",
+              "link": "https://rebelway.academy/topic/09_setting_workspace_modules/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Setting Workspace Startupscripts Shelftools Menus",
+              "description": "Setting Workspace Startupscripts Shelftools Menus",
+              "link": "https://rebelway.academy/topic/10_setting_workspace_startupscripts_shelftools_menus/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            }
+          ]
+        },
+        {
+          "id": null,
+          "icon": null,
+          "cover": null,
+          "name": "Week 3",
+          "tool": [
+            "166a1865-b187-8138-8316-dc8288897458"
+          ],
+          "description": "Use essential Python modules like os and json to construct a simple pipeline toolkit, enabling streamlined project creation and management.",
+          "link": "https://rebelway.academy/lessons/week3-91/",
+          "instructor": [
+            "Ciro Cardoso"
+          ],
+          "institute": [
+            "Rebelway"
+          ],
+          "tags": [
+            "Python",
+            "Houdini"
+          ],
+          "template": "default",
+          "lessons": [
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Intro to Week 3",
+              "description": "Intro to Week 3",
+              "link": "https://rebelway.academy/topic/00_intro-67/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "OS Module File Handling",
+              "description": "OS Module File Handling",
+              "link": "https://rebelway.academy/topic/01_os_module_file_handling/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "JSON Module",
+              "description": "JSON Module",
+              "link": "https://rebelway.academy/topic/02_json_module/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Errors Exceptions And Debugging",
+              "description": "Errors Exceptions And Debugging",
+              "link": "https://rebelway.academy/topic/03_errors_exceptions_debugging/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Qtdesigner Converting UI Top",
+              "description": "Qtdesigner Converting UI Top",
+              "link": "https://rebelway.academy/topic/04_qtdesigner_convertinguitop/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Create Project UI",
+              "description": "Create Project UI",
+              "link": "https://rebelway.academy/topic/05_create_project_ui/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Create Project Select Directory",
+              "description": "Create Project Select Directory",
+              "link": "https://rebelway.academy/topic/06_create_project_select_directory/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Create Project Final",
+              "description": "Create Project Final",
+              "link": "https://rebelway.academy/topic/07_create_project_final/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            }
+          ]
+        },
+        {
+          "id": null,
+          "icon": null,
+          "cover": null,
+          "name": "Week 4",
+          "tool": [
+            "166a1865-b187-8138-8316-dc8288897458"
+          ],
+          "description": "This chapter extends the project creation tool by building a project manager based on the previously created JSON file. It covers listing, enabling, disabling, and deleting projects, setting environment variables, and managing project details such as code, FPS, and save paths.",
+          "link": "https://rebelway.academy/lessons/week4-90/",
+          "instructor": [
+            "Ciro Cardoso"
+          ],
+          "institute": [
+            "Rebelway"
+          ],
+          "tags": [
+            "Python",
+            "Houdini"
+          ],
+          "template": "default",
+          "lessons": [
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Intro to Week 4",
+              "description": "Intro to Week 4",
+              "link": "https://rebelway.academy/topic/00_intro-69/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Project Manager Project Details",
+              "description": "Project Manager Project Details",
+              "link": "https://rebelway.academy/topic/01_project_manager_project_details/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Project Manager Enable Disable Delete Project",
+              "description": "Project Manager Enable Disable Delete Project",
+              "link": "https://rebelway.academy/topic/02_project_manager_enabledisabledelete_project/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Project Manager Delete Project",
+              "description": "Project Manager Delete Project",
+              "link": "https://rebelway.academy/topic/03_project_manager_delete_project/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Project Manager Optimize Code",
+              "description": "Project Manager Optimize Code",
+              "link": "https://rebelway.academy/topic/04_project_manager_optimize_code/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Project Managert Finish Tool Timelapse",
+              "description": "Project Managert Finish Tool Timelapse",
+              "link": "https://rebelway.academy/topic/05_project_managert_finish_tool_timelapse/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            }
+          ]
+        },
+        {
+          "id": null,
+          "icon": null,
+          "cover": null,
+          "name": "Week 5",
+          "tool": [
+            "166a1865-b187-8138-8316-dc8288897458"
+          ],
+          "description": "Apply your skills to real-world Houdini problems by developing tools that automate repetitive tasks and batch-process geometry or data.",
+          "link": "https://rebelway.academy/lessons/week5-57/",
+          "instructor": [
+            "Ciro Cardoso"
+          ],
+          "institute": [
+            "Rebelway"
+          ],
+          "tags": [
+            "Python",
+            "Houdini"
+          ],
+          "template": "default",
+          "lessons": [
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Intro to Week 5",
+              "description": "Intro to Week 5",
+              "link": "https://rebelway.academy/topic/00_intro-70/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Intro To Pyside2",
+              "description": "Intro To Pyside2",
+              "link": "https://rebelway.academy/topic/01_intro_to_pyside2/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Save Tool Connection To Project Manager",
+              "description": "Save Tool Connection To Project Manager",
+              "link": "https://rebelway.academy/topic/02_save_tool_connection_to_project_manager/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Save Tool Setup Methods",
+              "description": "Save Tool Setup Methods",
+              "link": "https://rebelway.academy/topic/03_save_tool_setup_methods/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Save Tool Save File",
+              "description": "Save Tool Save File",
+              "link": "https://rebelway.academy/topic/04_save_tool_save_file/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "CacheManager Scan Scene",
+              "description": "CacheManager Scan Scene",
+              "link": "https://rebelway.academy/topic/05_cachemanager_scan_scene/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "CacheManager Node Details",
+              "description": "CacheManager Node Details",
+              "link": "https://rebelway.academy/topic/06_cachemanager_node_details/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "CacheManager Final Features",
+              "description": "CacheManager Final Features",
+              "link": "https://rebelway.academy/topic/07_cachemanager_final_features/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "CacheManager Timelapse",
+              "description": "CacheManager Timelapse",
+              "link": "https://rebelway.academy/topic/08_cachemanager_timelapse/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            }
+          ]
+        },
+        {
+          "id": null,
+          "icon": null,
+          "cover": null,
+          "name": "Week 6",
+          "tool": [
+            "166a1865-b187-8138-8316-dc8288897458"
+          ],
+          "description": "Dive deeper into building materials, working with UDIMs. ",
+          "link": "https://rebelway.academy/lessons/week6-56/",
+          "instructor": [
+            "Ciro Cardoso"
+          ],
+          "institute": [
+            "Rebelway"
+          ],
+          "tags": [
+            "Python",
+            "Houdini"
+          ],
+          "template": "default",
+          "lessons": [
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Intro to Week 6",
+              "description": "Intro to Week 6",
+              "link": "https://rebelway.academy/topic/00_intro_for_week_06/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "TextToMtlx Userinterface",
+              "description": "TextToMtlx Userinterface",
+              "link": "https://rebelway.academy/topic/01_textomtlx_userinterface/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "TextToMtlx Open Folder",
+              "description": "TextToMtlx Open Folder",
+              "link": "https://rebelway.academy/topic/02_textomtlx_open_folder/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "TextToMtlx Get Texture Details",
+              "description": "TextToMtlx Get Texture Details",
+              "link": "https://rebelway.academy/topic/03_textomtlx_get_texture_details/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "TextToMtlx Finishing Ui",
+              "description": "TextToMtlx Finishing Ui",
+              "link": "https://rebelway.academy/topic/04_texttomtlx_finishing_ui/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "TextToMtlx Building The Materialx",
+              "description": "TextToMtlx Building The Materialx",
+              "link": "https://rebelway.academy/topic/05_texttomtlx_building_the_materialx/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            }
+          ]
+        },
+        {
+          "id": null,
+          "icon": null,
+          "cover": null,
+          "name": "Week 7",
+          "tool": [
+            "166a1865-b187-8138-8316-dc8288897458"
+          ],
+          "description": "Create advanced tools with custom GUIs using PySide2 or PyQt5, focusing on automating material creation and texture assignment tasks.",
+          "link": "https://rebelway.academy/lessons/week7-59/",
+          "instructor": [
+            "Ciro Cardoso"
+          ],
+          "institute": [
+            "Rebelway"
+          ],
+          "tags": [
+            "Python",
+            "Houdini"
+          ],
+          "template": "default",
+          "lessons": [
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Intro to Week 7",
+              "description": "Intro to Week 7",
+              "link": "https://rebelway.academy/topic/00_intro-72/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "TextToMtlx  Materialx Setup Class",
+              "description": "TextToMtlx  Materialx Setup Class",
+              "link": "https://rebelway.academy/topic/01_textomtlx_materialx_setup_class/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "TextToMtlx Creating Main Nodes",
+              "description": "TextToMtlx Creating Main Nodes",
+              "link": "https://rebelway.academy/topic/02_textomtlx_creating_main_nodes/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "TextToMtlx Iterate Textures",
+              "description": "TextToMtlx Iterate Textures",
+              "link": "https://rebelway.academy/topic/03_texttomtlx_iterate_textures/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "TextToMtlx Setup Bump Normal Mapsweek",
+              "description": "TextToMtlx Setup Bump Normal Mapsweek",
+              "link": "https://rebelway.academy/topic/04_textomtlx_setup_bump_normal_mapsweek/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "TextToMtlx Convert Tx",
+              "description": "TextToMtlx Convert Tx",
+              "link": "https://rebelway.academy/topic/05_textomtlx_convert_tx/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            }
+          ]
+        },
+        {
+          "id": null,
+          "icon": null,
+          "cover": null,
+          "name": "Week 8",
+          "tool": [
+            "166a1865-b187-8138-8316-dc8288897458"
+          ],
+          "description": "Integrate Python into Houdini Digital Assets and utilize Python States to craft interactive tools for dynamic, state-driven workflows.",
+          "link": "https://rebelway.academy/lessons/week8-56/",
+          "instructor": [
+            "Ciro Cardoso"
+          ],
+          "institute": [
+            "Rebelway"
+          ],
+          "tags": [
+            "Python",
+            "Houdini"
+          ],
+          "template": "default",
+          "lessons": [
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Intro to Week 8",
+              "description": "Intro to Week 8",
+              "link": "https://rebelway.academy/topic/0_intro-20/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Working With Parms And Parms Classes",
+              "description": "Working With Parms And Parms Classes",
+              "link": "https://rebelway.academy/topic/01_working_with_parms_and_parms_classes/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Using ParmTemplateGroup And Parmtemplates",
+              "description": "Using ParmTemplateGroup And Parmtemplates",
+              "link": "https://rebelway.academy/topic/02_using_parmtemplategroup_and_parmtemplates/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Python For HDAs",
+              "description": "Python For HDAs",
+              "link": "https://rebelway.academy/topic/03_python_for_hdas/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "HDA Camera Manager Initial Setup",
+              "description": "HDA Camera Manager Initial Setup",
+              "link": "https://rebelway.academy/topic/04_hda_camera_manager_initial_setup/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "HDA Camara Manager Working With Animation",
+              "description": "HDA Camara Manager Working With Animation",
+              "link": "https://rebelway.academy/topic/05_hda_camara_manager_working_with_animation/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "HDA Camera Manager Merge Cameras And Render",
+              "description": "HDA Camera Manager Merge Cameras And Render",
+              "link": "https://rebelway.academy/topic/06_hda_camera_manager_merge_cameras_and_render/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "HDA Camera Manager Finishing Timelapse",
+              "description": "HDA Camera Manager Finishing Timelapse",
+              "link": "https://rebelway.academy/topic/07_hda_camera_manager_finishing_timelapse/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            }
+          ]
+        },
+        {
+          "id": null,
+          "icon": null,
+          "cover": null,
+          "name": "Week 9",
+          "tool": [
+            "166a1865-b187-8138-8316-dc8288897458"
+          ],
+          "description": "Explore Solaris and USD-based workflows by building Python tools that automate asset creation with LOPs for efficient scene assembly.",
+          "link": "https://rebelway.academy/lessons/week9-29/",
+          "instructor": [
+            "Ciro Cardoso"
+          ],
+          "institute": [
+            "Rebelway"
+          ],
+          "tags": [
+            "Python",
+            "Houdini"
+          ],
+          "template": "default",
+          "lessons": [
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Intro to Week 9",
+              "description": "Intro to Week 9",
+              "link": "https://rebelway.academy/topic/0_intro-21/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Intro To Python Viewer States",
+              "description": "Intro To Python Viewer States",
+              "link": "https://rebelway.academy/topic/01_intro_to_python_viewer_states/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Place Highlight Initial Setup",
+              "description": "Place Highlight Initial Setup",
+              "link": "https://rebelway.academy/topic/02_place_highlight_initial_setup/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Place Highlight Reflection Ray",
+              "description": "Place Highlight Reflection Ray",
+              "link": "https://rebelway.academy/topic/03_place_highlight_reflection_ray/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Place Highlight Guide Geometry SOP Verbs",
+              "description": "Place Highlight Guide Geometry SOP Verbs",
+              "link": "https://rebelway.academy/topic/04_place_highlight_guide_geometry_sop_verbs/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Place Highlight Mousewheel Menus Info Panels",
+              "description": "Place Highlight Mousewheel Menus Info Panels",
+              "link": "https://rebelway.academy/topic/05_place_highlight_mousewheel_menus_info_panels/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            }
+          ]
+        },
+        {
+          "id": null,
+          "icon": null,
+          "cover": null,
+          "name": "Week 10",
+          "tool": [
+            "166a1865-b187-8138-8316-dc8288897458"
+          ],
+          "description": "Develop complex Solaris tools for programmatic camera and light setup, enhancing your USD lighting workflows with Python scripting.",
+          "link": "https://rebelway.academy/lessons/week10-26/",
+          "instructor": [
+            "Ciro Cardoso"
+          ],
+          "institute": [
+            "Rebelway"
+          ],
+          "tags": [
+            "Python",
+            "Houdini"
+          ],
+          "template": "default",
+          "lessons": [
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Intro to Week 10",
+              "description": "Intro to Week 10",
+              "link": "https://rebelway.academy/topic/00_intro-74/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "LOPs Asset Builder Intro",
+              "description": "LOPs Asset Builder Intro",
+              "link": "https://rebelway.academy/topic/01_lops_asset_builder_intro/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "LOPs Asset Builder Create Component Builder",
+              "description": "LOPs Asset Builder Create Component Builder",
+              "link": "https://rebelway.academy/topic/02_lops_asset_builder_create_component_builder/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "LOPs Asset Builder Install Extra Modules Scipy",
+              "description": "LOPs Asset Builder Install Extra Modules Scipy",
+              "link": "https://rebelway.academy/topic/03_lops_asset_builder_install_extra_modules_scipy/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "LOPs Asset Builder Implementing Tex To Mtlx",
+              "description": "LOPs Asset Builder Implementing Tex To Mtlx",
+              "link": "https://rebelway.academy/topic/04_lops_asset_builder_implementing_tex_to_mtlx/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "LOPs Asset Builder Network Box Stiky Notes",
+              "description": "LOPs Asset Builder Network Box Stiky Notes",
+              "link": "https://rebelway.academy/topic/05_lops_asset_builder_network_box_stiky_notes/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "LOPs Asset Builder Drag And Drop Homework",
+              "description": "LOPs Asset Builder Drag And Drop Homework",
+              "link": "https://rebelway.academy/topic/06_lops_asset_builder_drag_and_drop_homework/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "LOPs Light Rig Intro",
+              "description": "LOPs Light Rig Intro",
+              "link": "https://rebelway.academy/topic/07_lops_light_rig_intro/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "LOPs Light Rig Setup Lights",
+              "description": "LOPs Light Rig Setup Lights",
+              "link": "https://rebelway.academy/topic/08_lops_light_rig_setup_lights/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "LOPs Lookdev Camera Setup",
+              "description": "LOPs Lookdev Camera Setup",
+              "link": "https://rebelway.academy/topic/09_lops_lookdev_camera_setup/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "LOPs Lookdev Camera Settings Homework",
+              "description": "LOPs Lookdev Camera Settings Homework",
+              "link": "https://rebelway.academy/topic/10_lops_lookdev_camera_settings_homework/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Homework And Final Words",
+              "description": "Homework And Final Words",
+              "link": "https://rebelway.academy/topic/11_homework_and_final_words/",
+              "instructor": [
+                "Ciro Cardoso"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Python",
+                "Houdini"
+              ],
+              "template": "default"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

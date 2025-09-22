@@ -1,0 +1,264 @@
+{
+  "courses": [
+    {
+      "name": "Machine Learning in VFX",
+      "chapters": [
+        {
+          "id": null,
+          "icon": null,
+          "cover": null,
+          "name": "Week 6",
+          "tool": [
+            "166a1865-b187-8138-8316-dc8288897458",
+            "149a1865-b187-80f9-b21f-c9c96430bf62"
+          ],
+          "description": "Week 6 covers depth estimation, intro to point clouds, geometry mesh algorithms, prompt based 3D geometry generation, prompt based texture generation, deepfakes, AI for 3D development.",
+          "link": "https://rebelway.academy/lessons/week6-71/",
+          "instructor": [
+            "Felipe Pesantez"
+          ],
+          "institute": [
+            "Rebelway"
+          ],
+          "tags": [
+            "Houdini",
+            "Python"
+          ],
+          "template": "default",
+          "lessons": [
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Intro To Gen AI",
+              "description": "This lesson introduces the basic concepts of generative artificial intelligence. It covers how AI can be used to create new content in various formats, highlighting its applications in 3D development.",
+              "link": "https://rebelway.academy/topic/01_intro_to_gen_ai/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Depth Estimation",
+              "description": "The lesson on Depth Estimation covers techniques for determining the distance to objects within an image or scene. It provides insights into various algorithms and methods used to measure depth in 3D environments.",
+              "link": "https://rebelway.academy/topic/02_depth_estimation/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Depth Estimation Model From",
+              "description": "This lesson focuses on creating a depth estimation model to derive 3D information from given data. It involves techniques to interpret depth from images or other input sources, facilitating the construction of a 3D representation.",
+              "link": "https://rebelway.academy/topic/03_depth_estimation_model_from_the_hub/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Point Cloud Surfaces",
+              "description": "This lesson covers the methods for creating surfaces from point clouds in 3D geometry. It addresses techniques to convert unstructured point data into usable surface representations for further applications.",
+              "link": "https://rebelway.academy/topic/04_point_cloud_surfaces/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Point E",
+              "description": "The lesson 'Point E' likely discusses a method or algorithm related to the estimation, extraction, or processing of point clouds in 3D geometry. It may cover concepts such as point cloud representation, manipulation, or visualization in the context of 3D development.",
+              "link": "https://rebelway.academy/topic/05_point_e/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Shap E",
+              "description": "The lesson 'Shap E' likely focuses on a framework or technique related to generating or handling 3D shapes within the context of artificial intelligence or computer vision. It may explore how the Shap E method can be applied in areas such as 3D development or geometry processing.",
+              "link": "https://rebelway.academy/topic/06_shap_e/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Texture Paper",
+              "description": "The lesson 'Texture Paper' likely covers methods and principles related to the creation and application of textures in 3D environments. It may also explore how textures can be generated or manipulated through algorithms or prompts.",
+              "link": "https://rebelway.academy/topic/07_texturepaper/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Deepfakes Intro",
+              "description": "This lesson introduces the concept of deepfakes, explaining how they are created and utilized. It covers the basic technology behind deepfakes and discusses their potential implications.",
+              "link": "https://rebelway.academy/topic/08_deepfakes_intro/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Deepfakes Application",
+              "description": "The lesson on Deepfakes Application explores the use of AI technology to create realistic but artificial videos and images by manipulating existing media. It examines the implications, techniques, and tools used in the development and deployment of deepfake content.",
+              "link": "https://rebelway.academy/topic/09_deepfakes_application/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Week 6 Assignment",
+              "description": "The 'Week 6 Assignment' involves tasks or problems that students must complete and submit during the sixth week of the course. Specific details of the assignment are not provided.",
+              "link": "https://rebelway.academy/topic/w6_assignment/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

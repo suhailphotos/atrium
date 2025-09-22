@@ -1,0 +1,287 @@
+{
+  "courses": [
+    {
+      "name": "Machine Learning in VFX",
+      "chapters": [
+        {
+          "id": null,
+          "icon": null,
+          "cover": null,
+          "name": "Week 7",
+          "tool": [
+            "166a1865-b187-8138-8316-dc8288897458",
+            "149a1865-b187-80f9-b21f-c9c96430bf62"
+          ],
+          "description": "Week 7 covers Intro to Reinforcement Learning, intro to OpenAI Gym, RL Acrobot, retro games reinforcement learning, making AI play games, Houdini RL agent prediction, reinforcement learning examples.",
+          "link": "https://rebelway.academy/lessons/week-7-68/",
+          "instructor": [
+            "Felipe Pesantez"
+          ],
+          "institute": [
+            "Rebelway"
+          ],
+          "tags": [
+            "Houdini",
+            "Python"
+          ],
+          "template": "default",
+          "lessons": [
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Reinforcement Learning Introduction",
+              "description": "This lesson provides an introduction to the fundamental concepts and principles of reinforcement learning. It covers the basic framework and components involved in reinforcement learning processes.",
+              "link": "https://rebelway.academy/topic/01_reinforcementlearning_intro/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Introduction to the Gym",
+              "description": "This lesson introduces the OpenAI Gym, a toolkit for developing and comparing reinforcement learning algorithms. It provides an environment to simulate and test various reinforcement learning tasks.",
+              "link": "https://rebelway.academy/topic/02_intro_to_the_gym/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Acrobot Introduction",
+              "description": "The lesson 'Acrobot Introduction' provides an overview of the Acrobot environment used in reinforcement learning. It explains the dynamics and objectives of the Acrobot, which involves controlling a two-link pendulum to swing up to a target position.",
+              "link": "https://rebelway.academy/topic/03_acrobot_intro/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Acrobot DQN",
+              "description": "The lesson 'Acrobot DQN' focuses on implementing Deep Q-Networks (DQN) to solve the Acrobot problem. It covers the process of training an agent using reinforcement learning techniques within the OpenAI Gym environment.",
+              "link": "https://rebelway.academy/topic/04_acrobot_dqn/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Acrobot Baselines",
+              "description": "This lesson covers the use of baseline models for evaluating the performance of reinforcement learning algorithms on the Acrobot task. It explains how baseline metrics assist in comparing different approaches for controlling the Acrobot system.",
+              "link": "https://rebelway.academy/topic/05_acrobot_baselines/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Bipedal Walker",
+              "description": "The lesson focuses on the principles and mechanics of constructing and programming a bipedal walking robot. It covers the design aspects and movement algorithms necessary for creating a two-legged walker.",
+              "link": "https://rebelway.academy/topic/06_bipedal_walker/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Super Mario Bros",
+              "description": "This lesson covers the video game Super Mario Bros, focusing on its key features and gameplay. It explores the main characters, objectives, and levels within the game.",
+              "link": "https://rebelway.academy/topic/07_supermariobros/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Doom",
+              "description": "This lesson covers the basics and mechanics of the game Doom. It explores gameplay strategies, objectives, and the game's influence on the gaming industry.",
+              "link": "https://rebelway.academy/topic/08_doom/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Houdini Reinforcement Application",
+              "description": "The lesson 'Houdini Reinforcement Application' involves implementing a reinforcement learning agent to make predictions within a system or environment called Houdini. The focus is on utilizing reinforcement learning techniques to effectively train the agent for improved decision-making and performance.",
+              "link": "https://rebelway.academy/topic/09_houdini_reinforcement_application/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "RL Next Steps",
+              "description": "The lesson 'RL Next Steps' likely covers advanced concepts and techniques in reinforcement learning, building upon fundamental concepts introduced earlier. It may include guidance on progressing in RL projects or exploring new applications or tools in the field.",
+              "link": "https://rebelway.academy/topic/10_rl_next_steps/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Week 7 Assignment",
+              "description": "The 'Week 7 Assignment' is a task or set of tasks designated for completion in the seventh week of a course or program. The assignment's specific content, objectives, and requirements will be provided in the course materials.",
+              "link": "https://rebelway.academy/topic/w7_assignment/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "courses": [
+    {
+      "name": "Machine Learning in VFX",
+      "chapters": [
+        {
+          "id": null,
+          "icon": null,
+          "cover": null,
+          "name": "Week 9",
+          "tool": [
+            "166a1865-b187-8138-8316-dc8288897458",
+            "149a1865-b187-80f9-b21f-c9c96430bf62"
+          ],
+          "description": "Week 9 covers Fast API, Blob storage, AI-based clustering simulation, traditional ML algorithms, ML algorithms in Unity, ML algorithms in Houdini, and Home Pipeline.",
+          "link": "https://rebelway.academy/lessons/week9-38/",
+          "instructor": [
+            "Felipe Pesantez"
+          ],
+          "institute": [
+            "Rebelway"
+          ],
+          "tags": [
+            "Houdini",
+            "Python"
+          ],
+          "template": "default",
+          "lessons": [
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "FastAPI",
+              "description": "This lesson covers FastAPI, a modern web framework for building APIs with Python 3.6+ based on standard Python type hints. It provides an overview of how to use FastAPI to create robust and high-performing APIs.",
+              "link": "https://rebelway.academy/topic/01_fast_api/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Introduction to Blob Data",
+              "description": "This lesson introduces blob data, which is used to store unstructured or semi-structured data in the cloud. It covers the basic concepts and functionality of blob storage systems.",
+              "link": "https://rebelway.academy/topic/02_intro_to_blob_data/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "K-Means Introduction",
+              "description": "The lesson provides an introduction to the K-Means clustering algorithm. It covers the fundamental concepts and basic functionality of how K-Means partitions data into clusters.",
+              "link": "https://rebelway.academy/topic/03_kmeans_intro/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "K-Means Clustering Unity",
+              "description": "This lesson covers the implementation of the K-Means clustering algorithm within Unity. It likely involves setting up a simulation or application using Unity's environment to perform cluster analysis on data.",
+              "link": "https://rebelway.academy/topic/04_kmeans_clustering_unity/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "DBSCAN Introduction",
+              "description": "The lesson 'DBSCAN Introduction' presents an overview of DBSCAN, a density-based clustering algorithm. It likely covers the basic principles and applications of DBSCAN in data analysis.",
+              "link": "https://rebelway.academy/topic/05_dbscan_intro/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "DBSCAN Unity",
+              "description": "The lesson 'DBSCAN Unity' focuses on implementing the DBSCAN clustering algorithm within the Unity environment. It covers how to utilize DBSCAN for spatial data clustering in Unity projects.",
+              "link": "https://rebelway.academy/topic/06_dbscan_unity/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "KNN Unity",
+              "description": "This lesson covers the implementation of the K-Nearest Neighbors (KNN) algorithm within the Unity environment. It explains how to integrate and utilize KNN for machine learning tasks in game development or simulations.",
+              "link": "https://rebelway.academy/topic/07_knn_unity/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Home Pipeline Models",
+              "description": "The lesson 'Home Pipeline Models' likely covers the integration and implementation of machine learning models within a home pipeline system. It may involve discussions on the structure, deployment, and functioning of these models in real-world applications.",
+              "link": "https://rebelway.academy/topic/08_home_pipeline_models/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Houdini Random Forest Classification",
+              "description": "This lesson covers the implementation of the Random Forest classification algorithm within Houdini. It provides instructions on how to set up and use this machine learning technique for data classification tasks.",
+              "link": "https://rebelway.academy/topic/09_houdini_randomforest_classifier/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Week 9 Assignment",
+              "description": "This lesson involves completing a specific assignment scheduled for the ninth week of the course. It requires application of the concepts and skills learned in previous lessons.",
+              "link": "https://rebelway.academy/topic/w9_assignment/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

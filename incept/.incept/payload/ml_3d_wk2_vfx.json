@@ -1,0 +1,399 @@
+{
+  "courses": [
+    {
+      "name": "Machine Learning in VFX",
+      "chapters": [
+        {
+          "name": "Week 2",
+          "tool": [
+            "166a1865-b187-8138-8316-dc8288897458",
+            "149a1865-b187-80f9-b21f-c9c96430bf62"
+          ],
+          "description": "Week 2 covers data libraries, basic ML and traditional algorithms, Houdini Developer Environment setup, performing predictions in Houdini, exercises, data extraction from Houdini for real applications, data ingestion in Houdini",
+          "link": "https://rebelway.academy/lessons/week2-77/",
+          "instructor": [
+            "Felipe Pesantez"
+          ],
+          "institute": [
+            "Rebelway"
+          ],
+          "tags": [
+            "Houdini",
+            "Python"
+          ],
+          "template": "default",
+          "lessons": [
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Data Intro",
+              "description": "This lesson provides an introduction to data concepts applicable within the Houdini software environment. It covers fundamental principles necessary for understanding data manipulation and usage in subsequent tasks.",
+              "link": "https://rebelway.academy/topic/01_data_intro-6/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Databases",
+              "description": "This lesson covers the fundamental concepts and structures of databases. It includes an introduction to database management systems and their application in storing and retrieving data.",
+              "link": "https://rebelway.academy/topic/02_databases/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "SQL",
+              "description": "This lesson provides an introduction to SQL, the structured query language used for managing and manipulating relational databases. It covers basic SQL commands and syntax for performing tasks such as querying and updating data.",
+              "link": "https://rebelway.academy/topic/03_sql/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Concept Requirements",
+              "description": "This lesson focuses on defining and outlining the necessary components needed for a concept to be successful. It addresses how to identify and document these requirements effectively.",
+              "link": "https://rebelway.academy/topic/04_concept_requirements/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Intro To Pandas",
+              "description": "This lesson provides an introduction to using the Pandas library in Python. It covers the basic concepts and structures, such as DataFrames and Series, that facilitate data manipulation and analysis.",
+              "link": "https://rebelway.academy/topic/05_intro_to_pandas/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Intro To Seaborn",
+              "description": "This lesson provides an introduction to Seaborn, a data visualization library in Python. It covers the basic concepts and features needed to create statistical graphics using Seaborn.",
+              "link": "https://rebelway.academy/topic/06_intro_to_seaborn/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Dijkstras Algorithm",
+              "description": "This lesson covers Dijkstra's Algorithm, a classic shortest path algorithm used in graph theory. It explains how the algorithm finds the shortest path between nodes in a graph, which is useful for network routing and similar applications.",
+              "link": "https://rebelway.academy/topic/07_dijkstras_algorithm/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "A* (A Star)",
+              "description": "The lesson 'A* (A Star)' provides an overview of the A* search algorithm, which is used for pathfinding and graph traversal. It explains the algorithm's workings, including its use of cost functions to determine the most efficient path between nodes.",
+              "link": "https://rebelway.academy/topic/08_a_star/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Houdini A* Implementation (Part 1)",
+              "description": "The lesson covers the implementation of the A* algorithm within the Houdini environment. It focuses on setting up the necessary components to begin coding the algorithm for pathfinding tasks in Houdini.",
+              "link": "https://rebelway.academy/topic/09_houdini_a_star_part1/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Houdini A* Implementation (Part 2)",
+              "description": "This lesson continues the implementation of the A* algorithm within the Houdini environment. It builds upon previous steps to refine and enhance pathfinding capabilities in Houdini projects.",
+              "link": "https://rebelway.academy/topic/10_houdini_a_star_part2/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Houdini Environment Configuration",
+              "description": "This lesson explains how to configure the Houdini environment to facilitate machine learning workflows. It covers the necessary setup procedures for integrating data libraries and traditional algorithms within Houdini.",
+              "link": "https://rebelway.academy/topic/11_houdini_environment_configuration/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Data Concepts",
+              "description": "The 'Data Concepts' lesson introduces foundational principles and terminology related to data handling in computational environments. It covers key concepts that are essential for understanding how data is structured and utilized within Houdini.",
+              "link": "https://rebelway.academy/topic/12_data_concepts/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Houdini Data Extraction",
+              "description": "This lesson covers the process of extracting data from Houdini for use in real-world applications. It includes methods and techniques specific to accessing and exporting relevant data from the Houdini environment.",
+              "link": "https://rebelway.academy/topic/13_houdini_data_extraction/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Model Architectures",
+              "description": "This lesson covers different designs and frameworks of machine learning and neural network models. It explores the structural variations and configurations that define distinct model architectures.",
+              "link": "https://rebelway.academy/topic/14_model_architectures/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Model Application",
+              "description": "The lesson focuses on applying machine learning models within the Houdini environment. It covers the process of integrating models to perform predictions on data extracted from Houdini.",
+              "link": "https://rebelway.academy/topic/15_model_application/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Week 2 Assignment",
+              "description": "In the 'Week 2 Assignment' lesson, we are tasked with completing the assignment designated for the second week of the course. This may involve applying newly learned concepts and skills to practical tasks or problems.",
+              "link": "https://rebelway.academy/topic/week2_assignment/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1664 @@
+{
+  "courses": [
+    {
+      "id": null,
+      "icon": null,
+      "cover": null,
+      "name": "VEX for Houdini Artists",
+      "tool": [
+        "166a1865-b187-8138-8316-dc8288897458"
+      ],
+      "description": "Master VEX and elevate your Houdini skills with a deep dive into programming concepts, logic, and algorithms-designed to help artists create advanced effects, solve real-world challenges, and approach complex problems with confidence.",
+      "logo_public_id": "icon/rebelway_logo",
+      "fanart_public_id": "banner/fanart",
+      "poster_base_id": "poster/base_image",
+      "thumb_base_id": "thumb/base_image",
+      "link": "https://rebelway.academy/lessons/welcome-vex-for-houdini-artists-13/",
+      "instructor": [
+        "Aaron Smith"
+      ],
+      "institute": [
+        "Rebelway"
+      ],
+      "tags": [
+        "Houdini"
+      ],
+      "template": "usd",
+      "chapters": [
+        {
+          "id": null,
+          "icon": null,
+          "cover": null,
+          "name": "Week 1",
+          "tool": [
+            "166a1865-b187-8138-8316-dc8288897458"
+          ],
+          "description": "Learn the basics of VEX, programming logic, debugging techniques, and small starter projects in Houdini.",
+          "link": "https://rebelway.academy/lessons/week-1-vex-for-houdini-artists-13/",
+          "instructor": [
+            "Aaron Smith"
+          ],
+          "institute": [
+            "Rebelway"
+          ],
+          "tags": [
+            "Houdini"
+          ],
+          "template": "usd",
+          "lessons": [
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Overview",
+              "description": "Overview",
+              "link": "https://rebelway.academy/topic/01_overview-36/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Language",
+              "description": "Language",
+              "link": "https://rebelway.academy/topic/02_language/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Variables",
+              "description": "Variables",
+              "link": "https://rebelway.academy/topic/03_variables/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Functions",
+              "description": "Functions",
+              "link": "https://rebelway.academy/topic/04_functions/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Globals",
+              "description": "Globals",
+              "link": "https://rebelway.academy/topic/05_globals/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Conditionals Part1",
+              "description": "Conditionals Part1",
+              "link": "https://rebelway.academy/topic/06_conditionals/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Conditionals Part2",
+              "description": "Conditionals Part2",
+              "link": "https://rebelway.academy/topic/07_conditionals_part2/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Best Practices",
+              "description": "Best Practices",
+              "link": "https://rebelway.academy/topic/08_best_practices/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Assignment",
+              "description": "Assignment",
+              "link": "https://rebelway.academy/topic/09_assignment-47/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            }
+          ]
+        },
+        {
+          "id": null,
+          "icon": null,
+          "cover": null,
+          "name": "Week 2",
+          "tool": [
+            "166a1865-b187-8138-8316-dc8288897458"
+          ],
+          "description": "Explore advanced VEX concepts, attribute manipulation, and build a custom ambient occlusion shader using ray-casting.",
+          "link": "https://rebelway.academy/lessons/week-2-vex-for-houdini-artists-13/",
+          "instructor": [
+            "Aaron Smith"
+          ],
+          "institute": [
+            "Rebelway"
+          ],
+          "tags": [
+            "Houdini"
+          ],
+          "template": "usd",
+          "lessons": [
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Overview",
+              "description": "Overview",
+              "link": "https://rebelway.academy/topic/01_overview-38/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Visualising Groups",
+              "description": "Visualising Groups",
+              "link": "https://rebelway.academy/topic/02_visualising_groups/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Visualising Dictionaries",
+              "description": "Visualising Dictionaries",
+              "link": "https://rebelway.academy/topic/03_visualising_dictionaries/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Visualising Arrays Part1",
+              "description": "Visualising Arrays Part1",
+              "link": "https://rebelway.academy/topic/04_visualising_arrays_part1/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Visualising Arrays Part2",
+              "description": "Visualising Arrays Part2",
+              "link": "https://rebelway.academy/topic/05_visualising_arrays2_part2/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Visualising Nearpoints",
+              "description": "Visualising Nearpoints",
+              "link": "https://rebelway.academy/topic/06_visualising_nearpoints/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Visualising AO Part1",
+              "description": "Visualising AO Part1",
+              "link": "https://rebelway.academy/topic/07_visualising_ao_part1/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Visualising AO Part2",
+              "description": "Visualising AO Part2",
+              "link": "https://rebelway.academy/topic/08_visualising_ao_part2/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Assignment",
+              "description": "Assignment",
+              "link": "https://rebelway.academy/topic/09_assignment-48/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            }
+          ]
+        },
+        {
+          "id": null,
+          "icon": null,
+          "cover": null,
+          "name": "Week 3",
+          "tool": [
+            "166a1865-b187-8138-8316-dc8288897458"
+          ],
+          "description": "Understand VEX pixel and image workflows in Houdini, and create a texture baker using ray-casting and sampling.",
+          "link": "https://rebelway.academy/lessons/week-3-vex-for-houdini-artists-13/",
+          "instructor": [
+            "Aaron Smith"
+          ],
+          "institute": [
+            "Rebelway"
+          ],
+          "tags": [
+            "Houdini"
+          ],
+          "template": "usd",
+          "lessons": [
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Into To COPs",
+              "description": "Into To COPs",
+              "link": "https://rebelway.academy/topic/01_into_to_cops/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Texture In VEX",
+              "description": "Texture In VEX",
+              "link": "https://rebelway.academy/topic/02_texture_in_vex/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Blendmode",
+              "description": "Blendmode",
+              "link": "https://rebelway.academy/topic/03_blendmode/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "VEX Intersection",
+              "description": "VEX Intersection",
+              "link": "https://rebelway.academy/topic/04_vex_intersection/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Imageintrinsics",
+              "description": "Imageintrinsics",
+              "link": "https://rebelway.academy/topic/05_imageintrinsics/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Baker Part1",
+              "description": "Baker Part1",
+              "link": "https://rebelway.academy/topic/06_baker_part1/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Baker Part2",
+              "description": "Baker Part2",
+              "link": "https://rebelway.academy/topic/07_baker_part2/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Homework",
+              "description": "Homework",
+              "link": "https://rebelway.academy/topic/08_homework/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            }
+          ]
+        },
+        {
+          "id": null,
+          "icon": null,
+          "cover": null,
+          "name": "Week 4",
+          "tool": [
+            "166a1865-b187-8138-8316-dc8288897458"
+          ],
+          "description": "Use VEX to simulate dynamic vellum forces, applying custom logic to surface tension, gravity, and temporal updates.",
+          "link": "https://rebelway.academy/lessons/week-4-vex-for-houdini-artists-12/",
+          "instructor": [
+            "Aaron Smith"
+          ],
+          "institute": [
+            "Rebelway"
+          ],
+          "tags": [
+            "Houdini"
+          ],
+          "template": "usd",
+          "lessons": [
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Introduction",
+              "description": "Introduction",
+              "link": "https://rebelway.academy/topic/01_introduction-138/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Representation",
+              "description": "Representation",
+              "link": "https://rebelway.academy/topic/02_representation/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Custom Forces",
+              "description": "Custom Forces",
+              "link": "https://rebelway.academy/topic/3_custom_forces/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Surface Tension",
+              "description": "Surface Tension",
+              "link": "https://rebelway.academy/topic/04_surface_tension/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Donut Prep",
+              "description": "Donut Prep",
+              "link": "https://rebelway.academy/topic/05_donut_prep/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Donut Final",
+              "description": "Donut Final",
+              "link": "https://rebelway.academy/topic/06_donut_final/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Assignment",
+              "description": "Assignment",
+              "link": "https://rebelway.academy/topic/07_assignment-39/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            }
+          ]
+        },
+        {
+          "id": null,
+          "icon": null,
+          "cover": null,
+          "name": "Week 5",
+          "tool": [
+            "166a1865-b187-8138-8316-dc8288897458"
+          ],
+          "description": "Implement clustering algorithms like K-Means in VEX, applying machine learning principles to creative setups.",
+          "link": "https://rebelway.academy/lessons/week-5-vex-for-houdini-artists-12/",
+          "instructor": [
+            "Aaron Smith"
+          ],
+          "institute": [
+            "Rebelway"
+          ],
+          "tags": [
+            "Houdini"
+          ],
+          "template": "usd",
+          "lessons": [
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Overview",
+              "description": "Overview",
+              "link": "https://rebelway.academy/topic/01_overview-46/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Clustering",
+              "description": "Clustering",
+              "link": "https://rebelway.academy/topic/02_clustering/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Introduction To KMeans",
+              "description": "Introduction To KMeans",
+              "link": "https://rebelway.academy/topic/03_introduction_to_kmeans/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "KMeans Implementaion",
+              "description": "KMeans Implementaion",
+              "link": "https://rebelway.academy/topic/04_kmeans_implementaion/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Finishing KMeans",
+              "description": "Finishing KMeans",
+              "link": "https://rebelway.academy/topic/05_finishing_kmeans/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Embroidery Setup Intro",
+              "description": "Embroidery Setup Intro",
+              "link": "https://rebelway.academy/topic/06_embroidery_setup_intro/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Embroidery Setup",
+              "description": "Embroidery Setup",
+              "link": "https://rebelway.academy/topic/07_embroidery_setup/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Bonus Lesson1",
+              "description": "Bonus Lesson1",
+              "link": "https://rebelway.academy/topic/09_bonuslesson1/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Bonus Lesson2",
+              "description": "Bonus Lesson2",
+              "link": "https://rebelway.academy/topic/10_bonuslesson2/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            }
+          ]
+        },
+        {
+          "id": null,
+          "icon": null,
+          "cover": null,
+          "name": "Week 6",
+          "tool": [
+            "166a1865-b187-8138-8316-dc8288897458"
+          ],
+          "description": "Design a motion project by dynamically generating and updating vellum constraints for complex cloth simulations.",
+          "link": "https://rebelway.academy/lessons/week-6-vex-for-houdini-artists-12/",
+          "instructor": [
+            "Aaron Smith"
+          ],
+          "institute": [
+            "Rebelway"
+          ],
+          "tags": [
+            "Houdini"
+          ],
+          "template": "usd",
+          "lessons": [
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Overview",
+              "description": "Overview",
+              "link": "https://rebelway.academy/topic/01_overview-47/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Project",
+              "description": "Project",
+              "link": "https://rebelway.academy/topic/02_project/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Groups",
+              "description": "Groups",
+              "link": "https://rebelway.academy/topic/03_groups/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Strings",
+              "description": "Strings",
+              "link": "https://rebelway.academy/topic/04_strings/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Constraints1",
+              "description": "Constraints1",
+              "link": "https://rebelway.academy/topic/05_constraints1/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Constraints2",
+              "description": "Constraints2",
+              "link": "https://rebelway.academy/topic/06_constraints2/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Sim",
+              "description": "Sim",
+              "link": "https://rebelway.academy/topic/07_sim/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            }
+          ]
+        },
+        {
+          "id": null,
+          "icon": null,
+          "cover": null,
+          "name": "Week 7",
+          "tool": [
+            "166a1865-b187-8138-8316-dc8288897458"
+          ],
+          "description": "Build a knit pattern system in VEX that adapts to varying patch sizes, ensuring flexibility across different designs.",
+          "link": "https://rebelway.academy/lessons/week-7-vex-for-houdini-artists-12/",
+          "instructor": [
+            "Aaron Smith"
+          ],
+          "institute": [
+            "Rebelway"
+          ],
+          "tags": [
+            "Houdini"
+          ],
+          "template": "usd",
+          "lessons": [
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Constraints1",
+              "description": "Constraints1",
+              "link": "https://rebelway.academy/topic/01_constraints1/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Constraints2",
+              "description": "Constraints2",
+              "link": "https://rebelway.academy/topic/02_constraints2/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "SimUV Part1",
+              "description": "SimUV Part1",
+              "link": "https://rebelway.academy/topic/03_simuv_part1/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "SimUV Part2",
+              "description": "SimUV Part2",
+              "link": "https://rebelway.academy/topic/04_simuv_part2/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "SimUV Part3",
+              "description": "SimUV Part3",
+              "link": "https://rebelway.academy/topic/05_simuv_part3/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Timewarp",
+              "description": "Timewarp",
+              "link": "https://rebelway.academy/topic/06_timewarp/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Pattern",
+              "description": "Pattern",
+              "link": "https://rebelway.academy/topic/07_pattern/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Isect Part1",
+              "description": "Isect Part1",
+              "link": "https://rebelway.academy/topic/08_isect_part1/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Isect Part2",
+              "description": "Isect Part2",
+              "link": "https://rebelway.academy/topic/09_isect_part2/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            }
+          ]
+        },
+        {
+          "id": null,
+          "icon": null,
+          "cover": null,
+          "name": "Week 8",
+          "tool": [
+            "166a1865-b187-8138-8316-dc8288897458"
+          ],
+          "description": "Finalize the project with square marching, creating layered effects and rendering the scene with Solaris and Karma.",
+          "link": "https://rebelway.academy/lessons/week-8-vex-for-houdini-artists-12/",
+          "instructor": [
+            "Aaron Smith"
+          ],
+          "institute": [
+            "Rebelway"
+          ],
+          "tags": [
+            "Houdini"
+          ],
+          "template": "usd",
+          "lessons": [
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Karma Rendering",
+              "description": "Karma Rendering",
+              "link": "https://rebelway.academy/topic/01_karma_rendering/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "SquareMarch1",
+              "description": "SquareMarch1",
+              "link": "https://rebelway.academy/topic/02_squaremarch1/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "SquareMarch2",
+              "description": "SquareMarch2",
+              "link": "https://rebelway.academy/topic/03_squaremarch2/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "SquareMarch3",
+              "description": "SquareMarch3",
+              "link": "https://rebelway.academy/topic/04_squaremarch3/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Extradetail",
+              "description": "Extradetail",
+              "link": "https://rebelway.academy/topic/05_extradetail/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Knit Solver",
+              "description": "Knit Solver",
+              "link": "https://rebelway.academy/topic/06_knit_solver/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Orbs",
+              "description": "Orbs",
+              "link": "https://rebelway.academy/topic/07_orbs/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "FinalRender1",
+              "description": "FinalRender1",
+              "link": "https://rebelway.academy/topic/08_finalrender1/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "FinalRender2",
+              "description": "FinalRender2",
+              "link": "https://rebelway.academy/topic/09_finalrender2/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "FinalRender2",
+              "description": "FinalRender2",
+              "link": "https://rebelway.academy/topic/09_finalrender2/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458"
+              ],
+              "name": "Next Steps",
+              "description": "Next Steps",
+              "link": "https://rebelway.academy/lessons/next-steps-101/",
+              "instructor": [
+                "Aaron Smith"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini"
+              ],
+              "template": "usd"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

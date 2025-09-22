@@ -1,0 +1,75 @@
+{
+  "courses": [
+    {
+      "name": "Machine Learning in VFX",
+      "tool": [
+        "166a1865-b187-8138-8316-dc8288897458",
+        "149a1865-b187-80f9-b21f-c9c96430bf62"
+      ],
+      "description": "This course covers the fundamentals of Python, Git, and machine learning, Al-driven data extraction, visualization, and model training in Python, Houdini, and Unity. You'll also explore computer vision, Al animation, generative 3D techniques, reinforcement learning, ML pipelines, neural style transfer, and Al.",
+      "logo_public_id": "icon/rebelway_logo",
+      "fanart_public_id": "banner/fanart",
+      "poster_base_id": "poster/base_image",
+      "thumb_base_id": "thumb/base_image",
+      "link": "https://rebelway.academy/lessons/introduction-8/",
+      "instructor": [
+        "Felipe Pesantez"
+      ],
+      "institute": [
+        "Rebelway"
+      ],
+      "tags": [
+        "Houdini",
+        "Python"
+      ],
+      "template": "default",
+      "chapters": [
+        {
+          "name": "Week 1",
+          "tool": [
+            "166a1865-b187-8138-8316-dc8288897458",
+            "149a1865-b187-80f9-b21f-c9c96430bf62"
+          ],
+          "description": "Week 1 covers Tools, Websites resources, OS, Computer Architecture refresher, Data structures and algorithms, Git, Python refresher, Numpy refresher, Jax overview, Design patterns, SOL",
+          "link": "https://rebelway.academy/lessons/week1-75/",
+          "instructor": [
+            "Felipe Pesantez"
+          ],
+          "institute": [
+            "Rebelway"
+          ],
+          "tags": [
+            "Houdini",
+            "Python"
+          ],
+          "template": "default",
+          "lessons": [
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Week 1 Assignment",
+              "description": "Build a package for books Library similar to Shopping card example.",
+              "link": "https://rebelway.academy/topic/week_1_assignment/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

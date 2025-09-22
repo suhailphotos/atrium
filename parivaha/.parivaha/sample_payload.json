@@ -1,0 +1,86 @@
+{
+  "trunk": [
+    {
+      "name": "home",
+      "tags": [
+        "#super"
+      ],
+      "id": "210a1865-b187-8161-98a8-f3f040267b82"
+    },
+    {
+      "name": "data",
+      "branches": {
+        "databases": {
+          "csv": {},
+          "json": {},
+          "mysql": {},
+          "postgreSQL": {},
+          "vectorDatabase": {}
+        },
+        "dataTypes": {
+          "images": {},
+          "text": {},
+          "tabular": {},
+          "audio": {},
+          "video": {}
+        },
+        "dataProcessing": {
+          "dataCleaning": {},
+          "featureEngineering": {},
+          "preprocessing": {
+            "imagePreprocessing": {},
+            "textPreprocessing": {},
+            "tabularPreprocessing": {}
+          },
+          "modeling": {
+            "architectures": {
+              "cnn": {},
+              "rnn": {},
+              "transformer": {},
+              "classicalMl": {}
+            },
+            "training": {
+              "hyperparameterTuning": {},
+              "optimization": {}
+            },
+            "evaluation": {
+              "metrics": {},
+              "validationTesting": {}
+            },
+            "deployment": {
+              "apiServing": {},
+              "monitoring": {},
+              "scaling": {}
+            }
+          }
+        }
+      },
+      "id": "210a1865-b187-81bd-8595-def1b438ee21"
+    },
+    {
+      "name": "ml",
+      "branches": {
+        "neuralNetworks": {
+          "cnn": {}
+        },
+        "dataProcessing": {}
+      },
+      "id": "210a1865-b187-8141-978a-f68700fe8e0e"
+    },
+    {
+      "name": "vfx",
+      "branches": {
+        "colorGrading": {}
+      },
+      "id": "210a1865-b187-8167-a48f-d2b3db4ad756"
+    },
+    {
+      "name": "web",
+      "id": "210a1865-b187-810b-8a7a-d379098306ca"
+    },
+    {
+      "name": "math",
+      "id": "210a1865-b187-81b8-83d5-eb71e530d8f8"
+    }
+  ]
+}

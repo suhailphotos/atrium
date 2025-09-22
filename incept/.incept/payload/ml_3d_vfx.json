@@ -1,0 +1,426 @@
+{
+  "courses": [
+    {
+      "id": null,
+      "icon": null,
+      "cover": null,
+      "name": "Machine Learning in VFX",
+      "tool": [
+        "166a1865-b187-8138-8316-dc8288897458",
+        "149a1865-b187-80f9-b21f-c9c96430bf62"
+      ],
+      "description": "This course covers the fundamentals of Python, Git, and machine learning, Al-driven data extraction, visualization, and model training in Python, Houdini, and Unity. You'll also explore computer vision, Al animation, generative 3D techniques, reinforcement learning, ML pipelines, neural style transfer, and Al.",
+      "logo_public_id": "icon/rebelway_logo",
+      "fanart_public_id": "banner/fanart",
+      "poster_base_id": "poster/base_image",
+      "thumb_base_id": "thumb/base_image",
+      "link": "https://rebelway.academy/lessons/introduction-8/",
+      "instructor": [
+        "Felipe Pesantez"
+      ],
+      "institute": [
+        "Rebelway"
+      ],
+      "tags": [
+        "Houdini",
+        "Python"
+      ],
+      "template": "default",
+      "chapters": [
+        {
+          "id": null,
+          "icon": null,
+          "cover": null,
+          "name": "Week 1",
+          "tool": [
+            "166a1865-b187-8138-8316-dc8288897458",
+            "149a1865-b187-80f9-b21f-c9c96430bf62"
+          ],
+          "description": "Week 1 covers Tools, Websites resources, OS, Computer Architecture refresher, Data structures and algorithms, Git, Python refresher, Numpy refresher, Jax overview, Design patterns, SOL",
+          "link": "https://rebelway.academy/lessons/week1-75/",
+          "instructor": [
+            "Felipe Pesantez"
+          ],
+          "institute": [
+            "Rebelway"
+          ],
+          "tags": [
+            "Houdini",
+            "Python"
+          ],
+          "template": "default",
+          "lessons": [
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Week 1 Introduction",
+              "description": "The 'Week 1 Introduction' lesson provides an overview of essential topics including computer architecture, data structures and algorithms, and the basics of using Git. It also includes refreshers on Python and Numpy, an overview of Jax, and discusses design patterns and SOLID principles.",
+              "link": "https://rebelway.academy/topic/01_start/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Resources & Tools",
+              "description": "The 'Resources & Tools' lesson provides an overview of essential software tools and resources including websites, operating systems, and elements of computer architecture. It covers foundational topics such as data structures and algorithms, Git for version control, and refreshers on Python, Numpy, Jax, as well as an introduction to design patterns and SOLID principles.",
+              "link": "https://rebelway.academy/topic/02_a_resources/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Github",
+              "description": "This lesson focuses on using GitHub, including its features for version control and collaboration in software development. Key topics include repositories, branches, commits, pull requests, and best practices for utilizing GitHub in projects.",
+              "link": "https://rebelway.academy/topic/02_github/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "WSL vs Windows",
+              "description": "This lesson discusses the differences between using Windows Subsystem for Linux (WSL) and the standard Windows operating system for development purposes. It covers the advantages and limitations of each platform, including integration with development tools and overall system performance.",
+              "link": "https://rebelway.academy/topic/03_wslvswindows/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "OS And Compilers",
+              "description": "This lesson, 'OS And Compilers,' provides an overview of operating systems and their functions, as well as an introduction to compilers and their role in translating code for execution. It serves as a foundational review of these essential components in computer architecture and software development.",
+              "link": "https://rebelway.academy/topic/04_os_and_compilers/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Datastructures Intro",
+              "description": "The 'Datastructures Intro' lesson provides an overview of fundamental data structures such as lists, stacks, queues, and trees, highlighting their use cases and operations. It serves as an essential foundation for understanding how data can be systematically organized and manipulated.",
+              "link": "https://rebelway.academy/topic/05_datastructures_intro/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Datastructures Memory",
+              "description": "The lesson 'Datastructures Memory' provides an overview of how data structures utilize and manage memory in computing environments. It aims to enhance understanding of data organization and storage efficiency within various programming contexts.",
+              "link": "https://rebelway.academy/topic/06_datastructures_memory/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Python Refresher Intro",
+              "description": "The 'Python Refresher Intro' lesson revisits essential Python programming concepts, providing a foundational review for learners to strengthen their understanding and fluency in the language. This lesson serves as a primer by covering key Python elements within the broader context of computational tools and principles.",
+              "link": "https://rebelway.academy/topic/07_python_refresher_intro/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Python Refresher SOLID",
+              "description": "This lesson provides a refresher on Python, covering essential language features and syntax to reinforce foundational knowledge. Additionally, it introduces the SOLID principles, exploring how these design principles can be applied within Python programming to create more maintainable and scalable code.",
+              "link": "https://rebelway.academy/topic/08_python_refresher_solid/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Design Patterns",
+              "description": "The 'Design Patterns' lesson provides an overview of common software design patterns used to solve recurring design problems, ensuring efficient and maintainable code. It includes explanations of various patterns and their applications, and how they relate to the SOLID principles in software engineering.",
+              "link": "https://rebelway.academy/topic/09_design_patterns/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Shopping Cart Code (example)",
+              "description": "This lesson on 'Shopping Cart Code (example)' provides a practical coding exercise focusing on implementing a shopping cart system using Python, with elements of data structures and algorithms. It serves to reinforce knowledge in Python programming, design patterns, and the application of SOLID principles within a structured project.",
+              "link": "https://rebelway.academy/topic/10_shopping_cart_code/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "PyTest",
+              "description": "The lesson titled 'PyTest' focuses on introducing the PyTest framework, a popular testing tool in Python used for writing simple as well as scalable test cases. It includes an overview of PyTest features, benefits in the context of software development, and basic usage instructions.",
+              "link": "https://rebelway.academy/topic/11_pytest/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "JAX",
+              "description": "The 'JAX' lesson provides an overview of JAX, a library for high-performance numerical computing. It covers key aspects of using JAX for machine learning tasks, including automatic differentiation and its compatibility with NumPy.",
+              "link": "https://rebelway.academy/topic/12_jax/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Intro To Numpy",
+              "description": "The 'Intro To Numpy' lesson offers a refresher on the core features and functions of the Numpy library, emphasizing its role in numerical computations and data manipulation. It covers array operations, indexing, and important methods to efficiently handle large datasets in Python.",
+              "link": "https://rebelway.academy/topic/13_intro_to_numpy/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Numpy Concepts",
+              "description": "The 'Numpy Concepts' lesson provides an overview of key Numpy functionalities, including array creation, manipulation, and operations, essential for numerical computing in Python. It also covers how Numpy integrates with other libraries, supporting efficient data handling and computational efficiency.",
+              "link": "https://rebelway.academy/topic/14_numpy_concepts/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Useful Production Concepts",
+              "description": "The lesson 'Useful Production Concepts' covers essential tools and resources, including websites, operating systems, and computer architecture fundamentals. It also includes a refresher on data structures, algorithms, Git, Python, Numpy, an overview of Jax, and an introduction to design patterns and SOLID principles.",
+              "link": "https://rebelway.academy/topic/15_useful_production_concepts/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

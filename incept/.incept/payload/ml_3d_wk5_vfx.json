@@ -1,0 +1,310 @@
+{
+  "courses": [
+    {
+      "name": "Machine Learning in VFX",
+      "chapters": [
+        {
+          "id": null,
+          "icon": null,
+          "cover": null,
+          "name": "Week 5",
+          "tool": [
+            "166a1865-b187-8138-8316-dc8288897458",
+            "149a1865-b187-80f9-b21f-c9c96430bf62"
+          ],
+          "description": "Week 5 covers Docker, Intro to Computer Vision, Mediapipe Intro, Mediapipe Data Extraction for DCCs, Facemesh, Pose Prediction, AI Animation, Animation Prediction.",
+          "link": "https://rebelway.academy/lessons/week5-71/",
+          "instructor": [
+            "Felipe Pesantez"
+          ],
+          "institute": [
+            "Rebelway"
+          ],
+          "tags": [
+            "Houdini",
+            "Python"
+          ],
+          "template": "default",
+          "lessons": [
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Docker",
+              "description": "This lesson introduces Docker, a platform for developing, shipping, and running applications in containers. It covers the basics of containerization and how Docker can be used to streamline the deployment process.",
+              "link": "https://rebelway.academy/topic/01_docker/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "OpenCV Intro",
+              "description": "The lesson introduces OpenCV, a computer vision library used for processing images and videos. It covers the basic functions and applications of OpenCV in the context of computer vision tasks.",
+              "link": "https://rebelway.academy/topic/02_opencv_intro/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "OpenCV Working With Videos",
+              "description": "This lesson focuses on using OpenCV to work with video files. It covers techniques for reading, processing, and displaying video data.",
+              "link": "https://rebelway.academy/topic/03_opencv_working_with_videos/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "MediaPipe Intro",
+              "description": "The 'MediaPipe Intro' lesson introduces the basics of using MediaPipe, a framework for building multimedia processing pipelines. It covers the core components and functionalities provided by MediaPipe for handling computer vision and machine learning tasks.",
+              "link": "https://rebelway.academy/topic/04_mediapipe_intro/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "MediaPipe Webcam",
+              "description": "The lesson 'MediaPipe Webcam' introduces how to use MediaPipe to capture and process real-time webcam video. It covers setup and implementation details necessary for integrating webcam feed with MediaPipe's computer vision capabilities.",
+              "link": "https://rebelway.academy/topic/05_mediapipe_webcam/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "FaceMesh Intro",
+              "description": "This lesson introduces FaceMesh, a framework for detecting and analyzing facial landmarks using computer vision techniques. It covers the basic functionalities and applications of FaceMesh in various media processing tasks.",
+              "link": "https://rebelway.academy/topic/06_facemesh_intro/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "FaceMesh Data Extraction",
+              "description": "The lesson covers the process of extracting facial landmarks using the FaceMesh model from MediaPipe. It explains how to capture and utilize the mesh data for further analysis or application in digital content creation (DCC) tools.",
+              "link": "https://rebelway.academy/topic/07_facemesh_data_extraction/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Pose Prediction Intro",
+              "description": "The 'Pose Prediction Intro' lesson provides an overview of predicting human poses using computer vision techniques. It introduces the fundamental concepts and tools necessary for understanding how to analyze and forecast body postures.",
+              "link": "https://rebelway.academy/topic/08_pose_prediction_intro/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Pose Prediction Experiments",
+              "description": "The lesson focuses on conducting experiments to predict human poses using computer vision techniques. It involves analyzing and testing pose prediction models to evaluate their accuracy and performance.",
+              "link": "https://rebelway.academy/topic/09_pose_prediction_experiments/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "MusePose",
+              "description": "The lesson 'MusePose' involves exploring or understanding a concept related to posing, possibly in a creative or expressive context. It may cover techniques or insights related to how posing can influence or inspire artistic or performative works.",
+              "link": "https://rebelway.academy/topic/10_musepose/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Blender Animation Prediction",
+              "description": "The lesson 'Blender Animation Prediction' covers the process of using predictive techniques to generate animations in Blender. It likely involves utilizing tools or models to forecast and automate animation sequences.",
+              "link": "https://rebelway.academy/topic/11_blender_animation_prediction/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Week 5 Assignment",
+              "description": "The 'Week 5 Assignment' involves completing a set of tasks or problems assigned for the fifth week. This lesson evaluates the learner's understanding and application of the material covered in previous lessons.",
+              "link": "https://rebelway.academy/topic/w5_assignment/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

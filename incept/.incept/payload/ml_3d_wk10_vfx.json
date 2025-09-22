@@ -1,0 +1,287 @@
+{
+  "courses": [
+    {
+      "name": "Machine Learning in VFX",
+      "chapters": [
+        {
+          "id": null,
+          "icon": null,
+          "cover": null,
+          "name": "Week 10",
+          "tool": [
+            "166a1865-b187-8138-8316-dc8288897458",
+            "149a1865-b187-80f9-b21f-c9c96430bf62"
+          ],
+          "description": "Week 10 covers Intro to Gaussian Splatting, Eye and face tracker, YOLO, Text detection, Color threshold detector, Neural style transfer, System design, MLOPS, Cloud Services applications",
+          "link": "https://rebelway.academy/lessons/week10-34/",
+          "instructor": [
+            "Felipe Pesantez"
+          ],
+          "institute": [
+            "Rebelway"
+          ],
+          "tags": [
+            "Houdini",
+            "Python"
+          ],
+          "template": "default",
+          "lessons": [
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Introduction to Gaussian Splatting",
+              "description": "The lesson 'Introduction to Gaussian Splatting' covers the basic principles and applications of Gaussian splatting techniques. It explores how these methods are used to interpolate and smooth data in various computational fields.",
+              "link": "https://rebelway.academy/topic/01_intro_to_gaussian_splatting/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Eye and Face Orientation Tracking",
+              "description": "The lesson on Eye and Face Orientation Tracking covers techniques to determine the direction and position of a person's eyes and face using computer vision. It explores algorithms and tools that enable accurate tracking for applications in interactive systems and user interface enhancements.",
+              "link": "https://rebelway.academy/topic/02_eye_and_face_orientation_tracking/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "YOLO",
+              "description": "This lesson focuses on YOLO (You Only Look Once), a real-time object detection system. It covers the architecture and working principles of YOLO, explaining how it effectively identifies and classifies objects within an image.",
+              "link": "https://rebelway.academy/topic/03_yolo/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Text Detection",
+              "description": "The lesson on Text Detection covers methods for identifying and extracting text from images using computer vision techniques. It explores various algorithms and models used to improve accuracy and efficiency in recognizing text within different visual contexts.",
+              "link": "https://rebelway.academy/topic/04_text_detection/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Color Threshold Detection",
+              "description": "The lesson on Color Threshold Detection covers techniques for identifying and isolating specific colors within an image based on predefined thresholds. It provides a practical understanding of how to manipulate image data to achieve desired color-based results.",
+              "link": "https://rebelway.academy/topic/05_color_threshold_detection/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Neural Style Transfer",
+              "description": "The lesson on Neural Style Transfer explains the process of applying the artistic style of one image to the content of another image using deep learning techniques. It covers the methodology behind transforming images into artworks by separating and recombining image content and style.",
+              "link": "https://rebelway.academy/topic/06_neural_style_transfer/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "PyTorch Pipeline",
+              "description": "The lesson on the PyTorch Pipeline covers the process of building a series of data processing steps in PyTorch. It includes techniques for efficiently passing data through multiple stages of a model workflow.",
+              "link": "https://rebelway.academy/topic/07_pytorch_pipeline/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "System Design",
+              "description": "The lesson on System Design covers the fundamental principles and methodologies for designing robust and efficient systems. It includes topics such as architecture design, scalability considerations, and integration strategies within various technological environments.",
+              "link": "https://rebelway.academy/topic/08_system_design/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "MLOps",
+              "description": "The lesson on MLOps covers the practices and tools used to streamline and automate machine learning workflows and operations. It emphasizes the integration and deployment of machine learning models into production environments.",
+              "link": "https://rebelway.academy/topic/09_mlops/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Cloud Services",
+              "description": "This lesson discusses the utilization of cloud services in game development and VFX workflows. It covers how cloud infrastructure can be applied to enhance computational resources and streamline processes in these fields.",
+              "link": "https://rebelway.academy/topic/10_cloud_services/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Week 10 Assignment",
+              "description": "The 'Week 10 Assignment' lesson involves completing a set task or project assigned for the tenth week of the course. It is designed to assess the understanding and application of the material covered so far.",
+              "link": "https://rebelway.academy/topic/11__assignment/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

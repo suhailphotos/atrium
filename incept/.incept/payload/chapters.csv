@@ -1,0 +1,11 @@
+﻿name,description,link
+Week 1,"Week 1 covers Tools, Websites resources, OS, Computer Architecture refresher, Data structures and algorithms, Git, Python refresher, Numpy refresher, Jax overview, Design patterns, SOL",https://rebelway.academy/lessons/week1-75/
+Week 2,"Week 2 covers data libraries, basic ML and traditional algorithms, Houdini Developer Environment setup, performing predictions in Houdini, exercises, data extraction from Houdini for real applications, data ingestion in Houdini",https://rebelway.academy/lessons/week2-77/
+Week 3,"Week 3 covers data visualization, databases, Houdini custom HDA for data I/O, Houdini home pipeline for data and ML models, MNIST, Pytorch in Houdini, AI-based",https://rebelway.academy/lessons/week3-109/
+Week 4,"Week 4 covers Streamlit, Tensorboard, Hugging Face, use off-the-shelf models, models for the pipeline, fine tuning and transfer learning, AI automation concepts, CNNs.",https://rebelway.academy/lessons/week4-115/
+Week 5,"Week 5 covers Docker, Intro to Computer Vision, Mediapipe Intro, Mediapipe Data Extraction for DCCs, Facemesh, Pose Prediction, AI Animation, Animation Prediction.",https://rebelway.academy/lessons/week5-71/
+Week 6,"Week 6 covers depth estimation, intro to point clouds, geometry mesh algorithms, prompt based 3D geometry generation, prompt based texture generation, deepfakes, AI for 3D development.",https://rebelway.academy/lessons/week6-71/
+Week 7,"Week 7 covers Intro to Reinforcement Learning, intro to OpenAI Gym, RL Acrobot, retro games reinforcement learning, making AI play games, Houdini RL agent prediction, reinforcement learning examples.",https://rebelway.academy/lessons/week-7-68/
+Week 8,"Week 8 covers Intro to LLMs, Houdini AI bot assistant, fine-tuning a LLM for in-house documentation, Transformers in AI, AI assistants for the pipeline, LLM techniques",https://rebelway.academy/lessons/week8-73/
+Week 9,"Week 9 covers Fast API, Blob storage, AI-based clustering simulation, traditional ML algorithms, ML algorithms in Unity, ML algorithms in Houdini, and Home Pipeline.",https://rebelway.academy/lessons/week9-38/
+Week 10,"Week 10 covers Intro to Gaussian Splatting, Eye and face tracker, YOLO, Text detection, Color threshold detector, Neural style transfer, System design, MLOPS, Cloud Services applications",https://rebelway.academy/lessons/week10-34/

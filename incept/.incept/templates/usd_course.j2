@@ -1,0 +1,24 @@
+{# course template — single-pass —#}
+{%- set child_folder_name = "usd/shots" -%}
+{%- set usd_folder        = "usd" -%}
+{%- set assets            = ["arc","cha","veh"] -%}
+
+{
+  "folder": "{% if numeric_prefix %}{{ numeric_prefix }}_{% endif %}{{ course_name }}",
+  "subfolders": [
+    { "folder": "course_materials" },
+    {
+      "folder": "{{ usd_folder }}",
+      "subfolders": [
+        {
+          "folder": "assets",
+          "subfolders": [
+            {% for a in assets -%}{ "folder": "{{ a }}" }{{ "," if not loop.last }}{%- endfor %}
+          ]
+        },
+        { "folder": "shots" }   {#  chapters will be injected here #}
+      ]
+    }
+  ],
+  "files": []
+}

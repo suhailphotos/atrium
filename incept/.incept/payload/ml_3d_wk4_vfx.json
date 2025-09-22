@@ -1,0 +1,264 @@
+{
+  "courses": [
+    {
+      "name": "Machine Learning in VFX",
+      "chapters": [
+        {
+          "id": null,
+          "icon": null,
+          "cover": null,
+          "name": "Week 4",
+          "tool": [
+            "166a1865-b187-8138-8316-dc8288897458",
+            "149a1865-b187-80f9-b21f-c9c96430bf62"
+          ],
+          "description": "Week 4 covers Streamlit, Tensorboard, Hugging Face, use off-the-shelf models, models for the pipeline, fine tuning and transfer learning, AI automation concepts, CNNs.",
+          "link": "https://rebelway.academy/lessons/week4-115/",
+          "instructor": [
+            "Felipe Pesantez"
+          ],
+          "institute": [
+            "Rebelway"
+          ],
+          "tags": [
+            "Houdini",
+            "Python"
+          ],
+          "template": "default",
+          "lessons": [
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Streamlit Intro",
+              "description": "The lesson provides an introduction to Streamlit, a Python library used for creating interactive web applications for machine learning and data science projects. It covers the basic setup and functionalities of Streamlit to quickly deploy predictive models and data visualizations.",
+              "link": "https://rebelway.academy/topic/01_streamlit_intro/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Streamlit Application",
+              "description": "The lesson 'Streamlit Application' covers how to create and deploy machine learning applications using the Streamlit framework. It provides guidance on integrating interactive UI components with backend machine learning processes.",
+              "link": "https://rebelway.academy/topic/02_streamlit_application/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "TensorBoard",
+              "description": "The lesson on TensorBoard covers its functionalities for visualizing metrics, model graphs, and other key details during the training process. It provides guidance on how to utilize this tool to track and analyze machine learning model performance.",
+              "link": "https://rebelway.academy/topic/03_tensorboard/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Off-the-shelf Models and Utils",
+              "description": "This lesson covers the use of pre-trained models and utility functions available for immediate integration into machine learning workflows. It explores how these off-the-shelf models and utilities can be employed effectively without the need for extensive customization or training from scratch.",
+              "link": "https://rebelway.academy/topic/04_off_the_shelf_models_and_utils/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Hugging Face",
+              "description": "This lesson covers how to utilize the Hugging Face platform to access pre-trained models for various natural language processing tasks. It also demonstrates how to implement these models within the prototype development framework.",
+              "link": "https://rebelway.academy/topic/05_huggingface/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Background Removal Model",
+              "description": "The lesson covers the implementation of a background removal model using pre-trained machine learning techniques. It includes steps for preparing and processing images to isolate and remove the background from the foreground subjects.",
+              "link": "https://rebelway.academy/topic/06_backgroundremoval_model/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "BiRefNet Model",
+              "description": "The BiRefNet Model lesson covers the architecture and functionality of the BiRefNet model in machine learning tasks. It may focus on understanding how the model processes input data and its applications.",
+              "link": "https://rebelway.academy/topic/07_birefnet_model/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "CNN and ResNets",
+              "description": "This lesson covers the architecture and functionality of Convolutional Neural Networks (CNNs), focusing on their ability to process data with grid-like topology. It also explores ResNets, a type of CNN known for their deep residual networks and solving issues related to training very deep networks.",
+              "link": "https://rebelway.academy/topic/08_cnn_and_resnets/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Model Fine Tuning",
+              "description": "The lesson on Model Fine Tuning covers the process of adjusting pre-trained models to improve their performance on specific tasks. It involves modifying model parameters and architecture to tailor the model's outputs more closely to the desired results.",
+              "link": "https://rebelway.academy/topic/09_model_fine_tuning/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Assignment",
+              "description": "This lesson likely covers the concept of assignments in a specific context, such as programming, education, or delegation of tasks. It may include details on how to properly assign values, roles, or tasks within a given framework or set of rules.",
+              "link": "https://rebelway.academy/topic/10_assignment-47/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

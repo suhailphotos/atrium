@@ -1,0 +1,10 @@
+{%- set child_folder_name = "" -%}
+{%- set chapter_prefix    = chapter_prefix|default("WK") -%}
+
+{
+  "folder": "{{ chapter_prefix }}{{ numeric_prefix }}",
+  "subfolders": [
+    { "folder": "_publish" }   {#  lessons will be injected under the chapter #}
+  ],
+  "files": []
+}

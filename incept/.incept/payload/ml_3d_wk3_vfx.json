@@ -1,0 +1,264 @@
+{
+  "courses": [
+    {
+      "name": "Machine Learning in VFX",
+      "chapters": [
+        {
+          "id": null,
+          "icon": null,
+          "cover": null,
+          "name": "Week 3",
+          "tool": [
+            "166a1865-b187-8138-8316-dc8288897458",
+            "149a1865-b187-80f9-b21f-c9c96430bf62"
+          ],
+          "description": "Week 3 covers data visualization, databases, Houdini custom HDA for data I/O, Houdini home pipeline for data and ML models, MNIST, Pytorch in Houdini, AI-based",
+          "link": "https://rebelway.academy/lessons/week3-109/",
+          "instructor": [
+            "Felipe Pesantez"
+          ],
+          "institute": [
+            "Rebelway"
+          ],
+          "tags": [
+            "Houdini",
+            "Python"
+          ],
+          "template": "default",
+          "lessons": [
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Data Visualization",
+              "description": "The lesson focuses on techniques and tools for effectively visualizing data. It examines how data visualization can be integrated into workflows to enhance understanding and communication of data insights.",
+              "link": "https://rebelway.academy/topic/01_data_visualization/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Data IO HAD Part1",
+              "description": "The lesson 'Data IO HDA Part1' introduces the creation and use of a Houdini Digital Asset (HDA) for data input and output. It covers foundational steps in designing a custom HDA to facilitate data handling within Houdini.",
+              "link": "https://rebelway.academy/topic/02_data_io_hda/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Data IO HAD Part2",
+              "description": "This lesson continues the exploration of Data IO using Houdini Digital Assets (HDAs). It focuses on advanced techniques for managing data input and output within the Houdini environment.",
+              "link": "https://rebelway.academy/topic/03_data_io_hda_part2/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "PyTorch MNIST",
+              "description": "The lesson covers the implementation of the MNIST dataset using PyTorch within the Houdini environment. It demonstrates how to integrate machine learning models for data analysis and visualization.",
+              "link": "https://rebelway.academy/topic/04_pytorch_mnist/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Google Drive API",
+              "description": "This lesson introduces the Google Drive API, a tool that allows developers to interact with Google Drive programmatically. It covers how to use the API to perform actions such as creating, accessing, and managing files in Google Drive.",
+              "link": "https://rebelway.academy/topic/05_google_drive_api/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Houdini PyTorch Models",
+              "description": "This lesson introduces the integration of PyTorch models within Houdini, focusing on how to utilize machine learning frameworks in a visual effects environment. It covers the setup and execution of PyTorch-based tasks directly within Houdini's node-based workflow.",
+              "link": "https://rebelway.academy/topic/06_houdini_pytorch_models/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Asset QC Prediction",
+              "description": "The 'AssetQC Prediction' lesson focuses on implementing a predictive system for automated quality control of digital assets. It utilizes machine learning models within Houdini for asset quality evaluation.",
+              "link": "https://rebelway.academy/topic/07_assetqc_prediction/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Node Predictions",
+              "description": "In the 'Node Predictions' lesson, you will learn how to create a system that predicts the next Houdini node to be used based on current workflow patterns. This involves understanding and implementing algorithms within Houdini to anticipate user actions for streamlined operations.",
+              "link": "https://rebelway.academy/topic/08_node_predictions/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Containers Overview",
+              "description": "The lesson provides an overview of containers, which are a form of virtualization that allows for running multiple isolated systems on a single host. It covers the basics of how containers work and their main benefits.",
+              "link": "https://rebelway.academy/topic/09_containers_overview/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            },
+            {
+              "id": null,
+              "icon": null,
+              "cover": null,
+              "tool": [
+                "166a1865-b187-8138-8316-dc8288897458",
+                "149a1865-b187-80f9-b21f-c9c96430bf62"
+              ],
+              "name": "Week 3 Assignment",
+              "description": "The 'Week 3 Assignment' lesson involves completing an assigned task or set of tasks for the third week. It is designed to assess comprehension and application of the topics covered in the week's lessons.",
+              "link": "https://rebelway.academy/topic/week3_assignment/",
+              "instructor": [
+                "Felipe Pesantez"
+              ],
+              "institute": [
+                "Rebelway"
+              ],
+              "tags": [
+                "Houdini",
+                "Python"
+              ],
+              "template": "default"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
