@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Backups (repo root only)
+/.backups/
+
+# dotenv files (any depth)
+.env
+.env.*
+*.env
+.envrc
+
+# anything with "secrets" in the name (files or folders)
+*[Ss]ecrets*
